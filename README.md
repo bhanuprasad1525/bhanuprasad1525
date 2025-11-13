@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **REST API's**
 
-- 📫 How to reach me **anjijanigorla@gmail.com**
+- 📫 How to reach me **bhanuprasadbatthula@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/167FBvvpZ-8Yh9eJyQyLjG9aNbob2IS6j/view?usp=drivesdk](https://drive.google.com/file/d/167FBvvpZ-8Yh9eJyQyLjG9aNbob2IS6j/view?usp=drivesdk)
 
