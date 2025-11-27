@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🔭 I’m currently working on **REST API's**
+- 🔭 I’m currently working on AZURE SERVICES
 
 - 📫 How to reach me **bhanuprasadbatthula@gmail.com**
 
