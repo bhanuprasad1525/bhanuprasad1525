@@ -42,12 +42,3 @@
 [![Metrics](https://metrics.lecoq.io/bhanuprasad1525?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/bhanuprasad1525)
 
 
----
-## ❤️ Donate Me
-
-If you like my work and want to support me, you can donate via UPI:
-
-[![UPI](https://img.shields.io/badge/UPI-Donate-green?style=for-the-badge&logo=google-pay)](upi://pay?pa=6303614050@ptsbi&pn=Bhanu%20Prasad&cu=INR)
-
-
-
