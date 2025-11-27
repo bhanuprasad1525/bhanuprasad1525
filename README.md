@@ -47,6 +47,6 @@
 
 If you like my work and want to support me, you can donate via UPI:
 
-[![UPI](https://img.shields.io/badge/UPI-Donate-green?style=for-the-badge&logo=google-pay)](https://api.phonepe.com/apis/hermes/pg/v1/pay?merchantId=TESTMERCHANT&transactionId=TEST123&amount=1&merchantOrderId=DONATE&merchantUserId=USER1&callbackUrl=https://phonepe.com&mobileNumber=9999999999&paymentInstruments=[{"type":"UPI_INTENT","vpa":"6303614050@ptsbi"}])
+[![UPI](https://img.shields.io/badge/UPI-Donate-green?style=for-the-badge&logo=google-pay)](https://bharatpe.com/upi-pay/?pa=6303614050@ptsbi&pn=Bhanu%20Prasad)
 
 
