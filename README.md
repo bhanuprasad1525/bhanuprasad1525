@@ -47,6 +47,7 @@
 
 If you like my work and want to support me, you can donate via UPI:
 
-[![UPI](https://img.shields.io/badge/UPI-Donate-green?style=for-the-badge&logo=google-pay)](https://bharatpe.com/upi-pay/?pa=6303614050@ptsbi&pn=Bhanu%20Prasad)
+[![UPI](https://img.shields.io/badge/UPI-Donate-green?style=for-the-badge&logo=google-pay)](upi://pay?pa=6303614050@ptsbi&pn=Bhanu%20Prasad&cu=INR)
+
 
 
